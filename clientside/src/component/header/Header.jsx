@@ -12,11 +12,11 @@ const Header = () => {
           <li> Home</li>
           <li>About Us</li>
           <li>Products</li>
-          <li>Activities</li>
           <li>Gallery</li>
           <li>News & notice</li>
           <li>Related Links</li>
           <li>Contact & Feedback</li>
+          <li>Sign In</li>
         </ul>
       </div>
     </div>
