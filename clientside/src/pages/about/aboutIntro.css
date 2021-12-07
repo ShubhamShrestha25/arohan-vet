@@ -1,0 +1,24 @@
+.aboutIntro {
+  display: flex;
+  flex-direction: column;
+}
+
+.aboutIntro h2 {
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+  background-color: rgb(2, 107, 2);
+  color: #fff;
+  margin-bottom: 40px;
+}
+
+.aboutIntro p {
+  margin: 0% 10%;
+}
+
+.moreInfo {
+  margin: 100px 0px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
